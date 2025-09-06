@@ -15,13 +15,14 @@
 
 
 
-| Report | Category | Notes |
-|---|---|---|
+## 📄 Reports
 
-| [Broken Access Control](./Abdulmajeed-Broken%20Access%20Control.pdf) | Web App | Unauthorized resource access scenarios |
+| Report | Category | Notes |
+|--------|----------|-------|
+| [Broken Access Control](./Abdulmajeed_Broken_Access_Control.pdf) | Web App | Unauthorized resource access scenarios |
 | [Sensitive Data Exposure via logs](./Abdulmajeed_Sensitive%20Data%20Exposure%20via%20logs.pdf) | Mobile App | Sensitive info in application logs |
 | [Android Manifest Configuration](./Abdulmajeed_Android%20Manifest%20Configuration.pdf) | Mobile App | Insecure exported components & misconfigurations |
-| [Information Disclosure via API testing](./Abdulmajeed_Information%20disclosure%20via%20api%20testing.pdf) | Web App | Sensitive info exposed through API responses |
+| [Information Disclosure via API testing](./Abdulmajeed_Information%20disclosure%20via%20api%20testing.pdf) | Web App | Sensitive info exposed through API responses | 
 
 
 
