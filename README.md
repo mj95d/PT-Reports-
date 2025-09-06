@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- لوقو نصّي (تغيّر المسار إذا استخدمت صورة PNG خاصة بك) -->
-  <img src="assets/logo.svg" alt="AB ATTACK - Abdulmajid Pentest Reports" width="320">
+  <img src="assets/pexels-pixabay-60504.jpg" alt="Cybersecurity Banner" width="800">
 </p>
 
 <h1 align="center">Abdulmajeed – Pentest Reports</h1>
