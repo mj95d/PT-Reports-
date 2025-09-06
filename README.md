@@ -17,7 +17,7 @@
 
 | Report | Category | Notes |
 |---|---|---|
-| [Information Disclosure](./Abdulmajeed_Information%20disclosure%20vulnerability.pdf) | Web App | Sensitive info exposure and recommendations |
+| [Information Disclosure](./Abdulmajeed-Information-Disclosure-Vulnerability.pdf) | Web App | Sensitive info exposure and recommendations |
 | [Broken Access Control](./Abdulmajeed-Broken%20Access%20Control.pdf) | Web App | Unauthorized resource access scenarios |
 
 
