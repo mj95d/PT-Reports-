@@ -19,7 +19,6 @@
 
 | Report | Category | Notes |
 |--------|----------|-------|
-
 | [Broken Access Control](./Abdulmajeed%20Broken%20Access%20Control.pdf) | Web App | Unauthorized resource access scenarios |
 | [Sensitive Data Exposure via logs](./Abdulmajeed_Sensitive%20Data%20Exposure%20via%20logs.pdf) | Mobile App | Sensitive info in application logs |
 | [Android Manifest Configuration](./Abdulmajeed_Android%20Manifest%20Configuration.pdf) | Mobile App | Insecure exported components & misconfigurations |
