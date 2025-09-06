@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/pexels-pixabay-60504.jpg" alt="Cybersecurity Banner" width="800">
-</p>
+
 
 <h1 align="center">Abdulmajeed – Pentest Reports</h1>
 
@@ -27,11 +26,7 @@
 
 
 
-<p>
-  <a href="./Abdulmajeed-Broken%20Access%20Control.pdf">
-    <img src="assets/bac-cover.png" alt="Broken Access Control - Preview" width="540">
-  </a>
-</p>
+
 
 ---
 
